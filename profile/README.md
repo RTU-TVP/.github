@@ -3,3 +3,7 @@
 ---
 
 Welcome to the official page of the GitHub organization of the **Virtual Space Technologies** (TVS) profile of the Russian Technological University (Russia, Moscow).
+
+---
+
+![Metrics](github-metrics.svg)
