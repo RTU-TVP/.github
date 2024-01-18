@@ -371,7 +371,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developers
-                                    <span class="gh">ranked 8.50m out of 126m users</span>
+                                    <span class="gh">ranked 8.50m out of 128m users</span>
                                 </div>
                                 <div class="text">Published 7 public repositories</div>
                             </div>
@@ -526,7 +526,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirers
-                                    <span class="gh">ranked 4.73m out of 55.6m repositories</span>
+                                    <span class="gh">ranked 5.02m out of 49.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -535,7 +535,7 @@
                 </div>
             </section>
             <footer>
-                <span>Last updated 18 Jan 2024, 17:15:48 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Jan 2024, 18:17:19 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
