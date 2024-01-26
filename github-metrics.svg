@@ -526,7 +526,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirers
-                                    <span class="gh">ranked 5.13m out of 80.7m repositories</span>
+                                    <span class="gh">ranked 5.13m out of 77.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -535,7 +535,7 @@
                 </div>
             </section>
             <footer>
-                <span>Last updated 27 Jan 2024, 00:14:00 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Jan 2024, 01:14:58 (timezone Europe/Moscow) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
