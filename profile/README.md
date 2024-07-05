@@ -8,6 +8,6 @@ Welcome to the official page of the GitHub organization of the **Virtual Space T
 
 <div align="center">
 
-  ![Metrics](github-metrics.svg)
+  ![Metrics](../github-metrics.svg)
 
 </div>
